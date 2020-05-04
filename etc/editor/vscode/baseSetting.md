@@ -16,5 +16,8 @@
 ### vue.js
 - Vetur
 
+### zsh
+- Zsh Debug
+
 ### other
 - Visual Studio IntelliCode
